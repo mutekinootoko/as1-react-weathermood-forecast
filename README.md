@@ -1,5 +1,5 @@
 cloned from https://shwu10.cs.nthu.edu.tw/courses-software-studio-2017-spring/lab-react-weathermood-forecast
-
+lecture video https://www.youtube.com/playlist?list=PLlPcwHqLqJDndwtjgYp0mYtllK83Eco1U
 
 # Assignment1 - React Weather Forecast
 
